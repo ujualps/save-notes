@@ -1,5 +1,6 @@
 # save-notes
 Application which can be used to store notes (Like Google Keep Notes). 
+Android Application Releasing soon.
 
 This application has only frontend. 
 Beginners application.
